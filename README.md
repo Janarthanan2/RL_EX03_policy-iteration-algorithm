@@ -1,7 +1,6 @@
 # Ex02 - POLICY ITERATION ALGORITHM<br>
 ### Name: _JANARTHANAN V K_
 ### Reg No: _212222230051_
-<br>
 
 ## AIM
 To develop a Python program to find the optimal policy for the given MDP using the policy iteration algorithm.
